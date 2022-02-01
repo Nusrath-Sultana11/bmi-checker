@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "500378595383",
+    "project_id": "bmi-checker-dce28",
+    "storage_bucket": "bmi-checker-dce28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500378595383:android:6824f40679348a36180fb2",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500378595383-qfm2chfoikoln7utc8v0b6chl8ovoph6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "4d435a63138e5976ab508f012827df5e6cdabe9f"
+          }
+        },
+        {
+          "client_id": "500378595383-husqbqkn4kp272eq8im5bp5gjqidfr9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkBcs-5VWgTtD4oUcm2EdwLZ8gM5J3VMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500378595383-husqbqkn4kp272eq8im5bp5gjqidfr9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
